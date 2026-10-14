@@ -305,3 +305,5 @@ Potential improvements include:
 This project demonstrates the use of local language models, Python, and Streamlit to help automate meeting action-item extraction and review.
 
 Thank you for reviewing this prototype.
+# meeting-action-extractor
+ai powered meeting action item extraction using a local language model and streamlit
