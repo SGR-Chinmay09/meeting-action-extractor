@@ -1,0 +1,9 @@
+venv/
+.venv/
+models/
+llama.cpp/build/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+llama.cpp/

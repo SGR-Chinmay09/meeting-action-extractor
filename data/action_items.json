@@ -1,0 +1,37 @@
+[
+    {
+        "task": "finish the project presentation",
+        "owner": "Priya",
+        "deadline": "October 20",
+        "status": "Pending",
+        "confidence": 0.85
+    },
+    {
+        "task": "prepare the slides and share the first draft",
+        "owner": "Rahul",
+        "deadline": "October 17",
+        "status": "Pending",
+        "confidence": 0.85
+    },
+    {
+        "task": "test the application and report any bugs",
+        "owner": "Ananya",
+        "deadline": "October 18",
+        "status": "Pending",
+        "confidence": 0.85
+    },
+    {
+        "task": "send me the final slides once they are ready",
+        "owner": null,
+        "deadline": null,
+        "status": "Needs review",
+        "confidence": 0.6
+    },
+    {
+        "task": "schedule another review meeting next week",
+        "owner": "Ananya",
+        "deadline": "next week",
+        "status": "Needs review",
+        "confidence": 0.45
+    }
+]

@@ -1,0 +1,13 @@
+Meeting: Project Planning
+
+Priya: We need to finish the project presentation by October 20.
+
+Rahul: I will prepare the slides and share the first draft by October 17.
+
+Ananya: I will test the application and report any bugs by October 18.
+
+Priya: Rahul, please send me the final slides once they are ready.
+
+Rahul: Sure, I will do that.
+
+Ananya: We should schedule another review meeting next week.
